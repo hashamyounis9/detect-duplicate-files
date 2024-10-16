@@ -1,2 +1,2 @@
 # detect-duplicate-files
-Detect duplicate files irrespective of their names in Windows, Linux and Mac operating systems
+Detect and filter duplicate files irrespective of their names in Windows, Linux and Mac operating systems into seperate folder
